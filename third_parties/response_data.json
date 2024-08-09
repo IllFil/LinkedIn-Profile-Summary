@@ -1,0 +1,433 @@
+{
+    "public_identifier": "illia-filipas",
+    "profile_pic_url": "https://media.licdn.com/dms/image/D4E03AQHFirvq7ppJBg/profile-displayphoto-shrink_800_800/0/1667495706540?e=1728518400&v=beta&t=LW0pAMY7YDaZ-Pfo3tccP9SVsNWjqZmC3g3UdrZYfes",
+    "background_cover_image_url": null,
+    "first_name": "Illia",
+    "last_name": "Filipas",
+    "full_name": "Illia Filipas",
+    "follower_count": 151,
+    "occupation": "Data & AI | Student at Kaunas University of Technology",
+    "headline": "Data & AI | Student at Kaunas University of Technology",
+    "summary": "I am a dedicated data specialist with a strong foundation in programming and database management. My dual degree in Mathematics and Natural Sciences from Kaunas University of Technology, accompanied by a Computer Science degree from Ukraine and AI specialist at the SKILLed AI program.\nAdditionally, I have experience working in large companies and effectively communicating with various team members. Equipped with practical experience in different programming languages, database engineering. I am passionate about solving complex problems and delivering effective solutions.",
+    "country": "LT",
+    "country_full_name": "Lithuania",
+    "city": "Kaunas",
+    "state": "Kauno",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2024
+            },
+            "ends_at": null,
+            "company": "Centric IT Solutions",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/centric-it-solutions-lithuania",
+            "company_facebook_profile_url": null,
+            "title": "Data Scientist",
+            "description": "Developed machine learning models for computer vision and object detection. Constructed robust data pipelines, prepared and preprocessed data, and conducted comprehensive problem research to optimize model performance.",
+            "location": "Kaunas, Kauno, Lithuania",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/centric-it-solutions-lithuania/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240809%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240809T100148Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=f4a125bad786b33391f3771f851ab359bd8deffe40446fcecf7283a598a7c309"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2024
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2024
+            },
+            "company": "Accenture",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/accenture",
+            "company_facebook_profile_url": null,
+            "title": "Data Engineer",
+            "description": "Hands-on experience with Oracle Cloud solutions and data administration. Engineered and optimized query performance, and wrote new queries using PL/SQL and SQL to enhance database efficiency and functionality.",
+            "location": "Vilniaus, Lithuania",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/accenture/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240809%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240809T100147Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=ea0f05627de400b8534f8b21fdeeb75eac09b3e2d2326bb67681123299599990"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2023
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2024
+            },
+            "company": "Kaunas University of Technology",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ktu",
+            "company_facebook_profile_url": null,
+            "title": "Project Engineer",
+            "description": "Conducted research on perovskite solar devices, analyzing various data types using Python and other software tools to derive meaningful insights and enhance research outcomes.",
+            "location": "Kaunas, Kauno, Lithuania",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/ktu/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240809%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240809T100147Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=67029a3837eee00420521ac1d331d599df7d8b9f2e1638e104026ce17e5c7c1f"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2023
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2026
+            },
+            "field_of_study": null,
+            "degree_name": "SKILLed AI",
+            "school": "Kaunas University of Technology",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/ktu",
+            "school_facebook_profile_url": null,
+            "description": "A program for bright students aimed at developing experts in machine learning, data specialists and AI in genral.",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/ktu/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240809%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240809T100148Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=ce69d62fddb348638e5142e44dd96d5f2d46eae5c84ec52928ba32326b36739e",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2026
+            },
+            "field_of_study": "Physics and Mathematics/Material engineering ",
+            "degree_name": "Bachelor's degree",
+            "school": "Kaunas University of Technology",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/ktu",
+            "school_facebook_profile_url": null,
+            "description": "Skills: Electronic Engineering \u00b7 R (Programming Language) \u00b7 Oral Communication \u00b7 Statistical Data Analysis \u00b7 Data Analysis \u00b7 English \u00b7 MATLAB \u00b7 C++ \u00b7 Computer Science \u00b7 Statistics \u00b7 Research and Development (R&D) \u00b7 Electronics \u00b7 Materials Science \u00b7 Laboratory Equipment",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/ktu/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240809%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240809T100148Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=ce69d62fddb348638e5142e44dd96d5f2d46eae5c84ec52928ba32326b36739e",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2025
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "Bachelor's degree",
+            "school": "State University of Information and Communication Technologies",
+            "school_linkedin_profile_url": null,
+            "school_facebook_profile_url": null,
+            "description": "Skills: JSON \u00b7 Computer Science \u00b7 Phyton \u00b7 Computer Vision \u00b7 Data Analysis",
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "German",
+        "Russian",
+        "Ukrainian"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2024
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2024
+            },
+            "title": "Stock Price Prediction with Keras",
+            "description": "This project aims to predict future stock prices using historical data and a Long Short-Term Memory (LSTM) model. The pipeline includes data acquisition, preprocessing, model training, evaluation, and visualization. The predictions are tailored for individual stocks, with detailed analysis provided at each stage.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2023
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2023
+            },
+            "title": "Student Volunteer",
+            "cause": "Education",
+            "company": "Kaunas University of Technology",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/26522/",
+            "description": "Was a volunteer at a fair from KTU, helped coordinate guests and companies.",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQH0PfySYjBQBw/company-logo_400_400/0/1705404163322/ktu_logo?e=1731542400&v=beta&t=juesmpfDpEX0K3Ua2QBv7eUGf6x7DWOkwpWuKKqldTw"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2023
+            },
+            "ends_at": null,
+            "name": "Database Structures and Management with MySQL",
+            "license_number": "ZZ4TEY3C2XX6",
+            "display_source": "coursera.org",
+            "authority": "Meta",
+            "url": "https://www.coursera.org/account/accomplishments/records/ZZ4TEY3C2XX6"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2023
+            },
+            "ends_at": null,
+            "name": "Advanced MySQL Topics",
+            "license_number": "FX2EGMXARKVK",
+            "display_source": "coursera.org",
+            "authority": "Meta",
+            "url": "https://www.coursera.org/account/accomplishments/records/FX2EGMXARKVK"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2023
+            },
+            "ends_at": null,
+            "name": "Accenture Data management certification ",
+            "license_number": "DIKS-22-449-ail",
+            "display_source": null,
+            "authority": "Accenture",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2024
+            },
+            "ends_at": null,
+            "name": "Oracle Cloud Data Management Certified Foundations Associate",
+            "license_number": "100614460OCDMF2023",
+            "display_source": "oracle.com",
+            "authority": "Oracle",
+            "url": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=67398E521A36A4752148513D747696EC5E7EE579A79F43AF45E3CAC06B5C5723"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2024
+            },
+            "ends_at": null,
+            "name": "Programming in Python ",
+            "license_number": "GAGNYXRWJU5P",
+            "display_source": "coursera.org",
+            "authority": "Meta",
+            "url": "https://www.coursera.org/account/accomplishments/verify/GAGNYXRWJU5P"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2024
+            },
+            "ends_at": null,
+            "name": "Oracle Cloud Infrastructure Certified Foundations Associate",
+            "license_number": "100614460OCIF2023CA",
+            "display_source": "oracle.com",
+            "authority": "Oracle",
+            "url": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=BBFC23D9E51E81A39C10D86F0FA0AE5588CCF9537EE7B73498FE55B3D820129D"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2024
+            },
+            "ends_at": null,
+            "name": "Oracle Cloud Infrastructure  AI Certified Foundations Associate",
+            "license_number": "100614460OCI23AIFCA",
+            "display_source": "oracle.com",
+            "authority": "Oracle",
+            "url": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=7161DB70A5C5EE9D4A7CF8CC91B53E087CDA5E599C289AB66E008BC1F2366ABB"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2024
+            },
+            "ends_at": null,
+            "name": "AWS Cloud Technical Essentials",
+            "license_number": "FYS3CBK6KFM6",
+            "display_source": "coursera.org",
+            "authority": "Amazon Web Services (AWS)",
+            "url": "https://coursera.org/share/d1b51b87e73b4c87d026290dcafc1b4e"
+        }
+    ],
+    "connections": 154,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/agne-paulauskaite-taraseviciene-54236199?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABTgI8IBeKTcwux0JxeSa8Ud8W1UI5yZmow",
+            "name": "Agne Paulauskaite-Taraseviciene",
+            "summary": "Head of KTU Artificial Intelligence  Centre at Kaunas University of Technology",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/paulina-grigutyt%C4%97?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD4oMEoBYgGdugHJ5Ec_pla4pBbF33Cno1M",
+            "name": "Paulina Grigutyt\u0117",
+            "summary": "Mechatronics student at Kaunas Technology University",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/povilaszvirblis?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD4s8W4BWErp7Jbjyb7vnqR4esL0vCBa8aU",
+            "name": "Povilas \u017dvirblis",
+            "summary": "Student at Kaunas University of Technology",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/micodeivid?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEEGJqUB6XmtFZnRx32sqwOZEk9Xu4FC2OQ",
+            "name": "Deivid Mico",
+            "summary": "Aeronautical Engineering Student at Kaunas University of Technology",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/abdelaziz-kadiri-793a1a277?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEOawN8BsqkKgzHJ7IJmie-RAgdIDYZslgc",
+            "name": "Abdelaziz Kadiri",
+            "summary": "Student at Kaunas University of Technology",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tatjanadulinskiene?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADUZW8cBWLdPETLoNrE7aJO6eD9YRh80Qm0",
+            "name": "Tatjana Dulinskiene",
+            "summary": "Lecturer at the Kaunas University of Technology",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/matas-sta%C5%A1aitis-915a60160?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACaZYyEBG2RsTg-f4_bWwvF6_bHrG1D7zFU",
+            "name": "Matas Sta\u0161aitis",
+            "summary": "Student at Kaunas University of Technology",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/dzmitry-dzemiashkevich-9aa178200?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADNIPpIBBmgdCbu2avl8o5G5ZhoR03ZxaTg",
+            "name": "Dzmitry Dzemiashkevich",
+            "summary": "Data Scientist / Analyst (Python)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mantas-supragonas?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB5ondUBPECldCcxOOO_X8xTe4SXWtLqLBc",
+            "name": "Mantas Supragonas",
+            "summary": "Senior DevOps and Cloud Engineer | Platform engineering | Cloud infrastructure and software release automation",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/meda-antanaityt%C4%97-ab045225a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD_IOKQBKhD-gF3P_c6fz8b7s5H87Bg9cvg",
+            "name": "Meda Antanaityt\u0117",
+            "summary": "Applied chemistry student at Kaunas University of Technology",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [
+        "Keras",
+        "TensorFlow",
+        "API",
+        "Machine Learning",
+        "Deep Learning",
+        "API Development",
+        "SQL Database Administration",
+        "Computer Vision",
+        "Data Labeling",
+        "Data Science",
+        "Microsoft Azure",
+        "Azure AI",
+        "JSON",
+        "Amazon Web Services (AWS)",
+        "AWS Lambda",
+        "Amazon EC2",
+        "Amazon S3",
+        "AWS Cloud Migration",
+        "Artificial Intelligence (AI)",
+        "Generative AI Tools",
+        "Computer Science",
+        "Report Development",
+        "R (Programming Language)",
+        "Oral Communication",
+        "Oracle Cloud",
+        "RDA",
+        "PL/SQL",
+        "Oracle Database",
+        "Extract, Transform, Load (ETL)",
+        "Data Manipulation",
+        "SQL",
+        "MySQL",
+        "Data Management",
+        "Database Management System (DBMS)",
+        "Statistical Data Analysis",
+        "Statistics",
+        "Phyton",
+        "Materials Science",
+        "Data Analysis",
+        "Laboratory Equipment",
+        "Research and Development (R&D)",
+        "Team Motivation",
+        "Polymers",
+        "Electronic Engineering",
+        "Teamwork",
+        "Problem Solving",
+        "C++",
+        "Electronics",
+        "Python (Programming Language)",
+        "MATLAB",
+        "Ukrainian",
+        "Russian",
+        "English",
+        "Research ",
+        "Analytical Skills",
+        "Microsoft Excel",
+        "Communication"
+    ],
+    "inferred_salary": {
+        "min": null,
+        "max": null
+    },
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": {
+        "github_profile_id": null,
+        "twitter_profile_id": null,
+        "facebook_profile_id": null
+    },
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}
