@@ -10,7 +10,7 @@ import json
 
 
 def look_up_person(name: str) -> Tuple[Summary, str]:
-    linkedin_profile_url = "https://gist.githubusercontent.com/IllFil/8076d38078a3a69606c2a77d449b9f04/raw/295c506af9caff06480976de943a5c919519aa6a/mylinkedin.json"
+    linkedin_username = look_up_about(name=name)
     linkedin_data = scrape_linkedin_profile(linkedin_profile_url=linkedin_profile_url, mock=True)
     summary_template = """Given the following information about a person from LinkedIn: {information}, I would like you to generate:
 
