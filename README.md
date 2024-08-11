@@ -11,7 +11,7 @@ This project is designed to extract and summarize LinkedIn profiles making serch
    - **Description:** 
      - **Step 1:** Finds the LinkedIn profile URL using `get_profile_url_tavily(name: str)`.
      - **Step 2:** Scrapes LinkedIn profile data from the found URL.
-     - **Step 3:** Generates a concise summary of the person's qualifications and experience using the `ChatOllama` model.
+     - **Step 3:** Generates a concise summary of the person's qualifications and experience using the `llama3.1` model.
    - **Dependencies:** `langchain`, `langchain_ollama`, `third_parties.linkedin`
 
 2. **LinkedIn Profile URL Lookup**:
